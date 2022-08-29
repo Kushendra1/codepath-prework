@@ -4,9 +4,7 @@
 `TODO://` A simple app made in android studio that displays "Hello from Kush!" with a custom background color. The app has one button which allows you to change the color of the text.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/HaIV6bVQR7.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
